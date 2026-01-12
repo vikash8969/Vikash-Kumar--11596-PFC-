@@ -55,10 +55,3 @@ In the future, this project can be enhanced by adding date conversion, a graphic
 
 ## 📚 Learning Outcome
 Through this project, I learned logical implementation in C, time calculation techniques, menu-driven program design, and efficient handling of user input.
-
-## 👤 Author
-Vikash Singh  
-GitHub: https://github.com/your-username
-
-## ⭐ Conclusion
-The Time Conversion Project is a beginner-friendly and practical C programming mini project that strengthens programming fundamentals and is highly useful for academic purposes.
