@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+    int hour;
+
+    printf("Enter hour (0-24): ");
+    scanf("%d", &hour);
+
+    if (hour == 0)
+        printf("12 AM");
+    else if (hour < 12)
+        printf("%d AM", hour);
+    else if (hour == 12)
+        printf("12 PM");
+    else
+        printf("%d PM", hour - 12);
+
+    return 0;
+}
